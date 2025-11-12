@@ -1,8 +1,9 @@
 # Validación Formal del Mecanismo de Generación de Alertas ante Infracciones de Veda
 
 **Autores:**  
-Diego Paolo Nova Rosas, Renzo Jusue Murillo Álvarez, Angélica Valeria Castillo Tovar, Marcelo Vieri Silva Cabrera  
-**Correos:** dnovar@ulasalle.edu.pe, rmurilloa@ulasalle.edu.pe, acastilloto@ulasalle.edu.pe, msilvac@ulasalle.edu.pe  
+Diego Paolo Nova Rosas, Renzo Josue Murillo Álvarez, Angélica Valeria Castillo Tovar, Marcelo Vieri Silva Cabrera, Johan Leonardo Marquez Zuniga  
+**Correos:** dnovar@ulasalle.edu.pe, rmurilloa@ulasalle.edu.pe, acastilloto@ulasalle.edu.pe, msilvac@ulasalle.edu.pe, jmarquezz@ulasalle.edu.pe
+
 
 ---
 
